@@ -105,15 +105,15 @@
 
 |Course Code| Title| Units| Faculty| Semester| Grade|
 |-----------|------|------|--------|---------|------|
-| CSD 201| Data Structures| 4.00 | Dr. Pooja Malik| Spring 2016| C|
-| EED 201| Signals and Systems| 4.00| Prof. Vijay Kumar Chakka| Monsoon 2016| C|
-| EED 202| Circuit Theory| 3.00| Dr. Naveen Babu| Monsoon 2016| C|
-| EED 203| Electromechanics| 4.00| Dr. Amit Bakshi| Spring 2017| C|
-| EED 204| Analog Electronic Circuits| 4.00| Dr. Atul Vir Singh| Spring 2017| C|
-| EED 205| Communication Engineering| 4.00| Dr. Ravikant Saini| Spring 2017| B-|
-| EED 206| Digital Electronics| 5.00| Prof. Ranendra Narayan Biswas| Monsoon 2016| B|
-| EED 301| Electromagnetic Engineering| 3.00| Dr. Madhur Deo Upadhyay| Spring 2017| C|
-| EED 302| Control Systems| 4.00| Monsoon 2017| Prof. Emeritus Dr. Madan Gopal| Monsoon 2017| B-|
+| CSD 201| Data Structures| 4.00 | Dr. Pooja Malik| Spring 2016|
+| EED 201| Signals and Systems| 4.00| Prof. Vijay Kumar Chakka| Monsoon 2016|
+| EED 202| Circuit Theory| 3.00| Dr. Naveen Babu| Monsoon 2016|
+| EED 203| Electromechanics| 4.00| Dr. Amit Bakshi| Spring 2017|
+| EED 204| Analog Electronic Circuits| 4.00| Dr. Atul Vir Singh| Spring 2017|
+| EED 205| Communication Engineering| 4.00| Dr. Ravikant Saini| Spring 2017|
+| EED 206| Digital Electronics| 5.00| Prof. Ranendra Narayan Biswas| Monsoon 2016|
+| EED 301| Electromagnetic Engineering| 3.00| Dr. Madhur Deo Upadhyay| Spring 2017|
+| EED 302| Control Systems| 4.00| Monsoon 2017| Prof. Emeritus Dr. Madan Gopal| Monsoon 2017|
 | EED 305| Digital Signal Processing| 4.00| Monsoon 2017|
 
 
