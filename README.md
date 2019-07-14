@@ -1,7 +1,9 @@
-<div style="background-color:rgba(0, 0, 0); text-align:center; vertical-align: middle; padding:70px 0; color:	rgb(255,255,255); font-size: 30px">
+<!----<div style="background-color:rgba(0, 0, 0); text-align:center; vertical-align: middle; padding:70px 0; color:	rgb(255,255,255); font-size: 30px">
 <a>Anoushkrit Goel</a>
 </div>
-<font color='green'>
+--->
+
+<font color="red">
   
 # Anoushkrit Goel
 </font>
