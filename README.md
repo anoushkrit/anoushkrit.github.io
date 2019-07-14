@@ -114,7 +114,7 @@
 | EED 206| Digital Electronics| 5.00| Prof. Ranendra Narayan Biswas| Monsoon 2016|
 | EED 301| Electromagnetic Engineering| 3.00| Dr. Madhur Deo Upadhyay| Spring 2017|
 | EED 302| Control Systems| 4.00| Prof. Emeritus Dr. Madan Gopal| Monsoon 2017|
-| EED 305| Digital Signal Processing| 4.00| Monsoon 2017|
+| EED 305| Digital Signal Processing| 4.00| Prof. Vijay Kumar Chakka| Monsoon 2017|
 
 
 
