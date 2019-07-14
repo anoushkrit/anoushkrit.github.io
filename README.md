@@ -103,8 +103,8 @@
 #### ECE Major Courses
 
 
-|Course Code| Title| Units| Faculty| Semester| Grade|
-|-----------|------|------|--------|---------|------|
+|Course Code| Title| Units| Faculty| Semester|
+|-----------|------|------|--------|---------|
 | CSD 201| Data Structures| 4.00 | Dr. Pooja Malik| Spring 2016|
 | EED 201| Signals and Systems| 4.00| Prof. Vijay Kumar Chakka| Monsoon 2016|
 | EED 202| Circuit Theory| 3.00| Dr. Naveen Babu| Monsoon 2016|
@@ -113,7 +113,7 @@
 | EED 205| Communication Engineering| 4.00| Dr. Ravikant Saini| Spring 2017|
 | EED 206| Digital Electronics| 5.00| Prof. Ranendra Narayan Biswas| Monsoon 2016|
 | EED 301| Electromagnetic Engineering| 3.00| Dr. Madhur Deo Upadhyay| Spring 2017|
-| EED 302| Control Systems| 4.00| Monsoon 2017| Prof. Emeritus Dr. Madan Gopal| Monsoon 2017|
+| EED 302| Control Systems| 4.00| Prof. Emeritus Dr. Madan Gopal| Monsoon 2017|
 | EED 305| Digital Signal Processing| 4.00| Monsoon 2017|
 
 
