@@ -53,7 +53,7 @@
 | Institution| Description| Role | Year| Details|
 |------------|------------|------|-----|--------|
 |VEIG| Founding Head| **VEIG** stands for Virtual and Augmented Reality, Encryption, Artificial Intelligence, and Game Development| 2017||
-|[Dauntless](https://www.linkedin.com/company/dauntless-snu/)| Founding Advisor|| 2018|[Instagram Page](https://instagram.com/dauntless.snu)|
+|[Dauntless](https://www.linkedin.com/company/dauntless-snu/)| Founding Advisor| Dauntless, the fitness and Mixed Martial Arts Club of Shiv Nadar University| 2018|[Instagram Page](https://instagram.com/dauntless.snu)|
 
 
 ## Projects
