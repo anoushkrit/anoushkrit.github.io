@@ -64,7 +64,7 @@
 
 |Title | Details| Year| Mentor| Team| Technologies|
 |------|--------|-----|-------|-----|-------------|
-|Dr. Susan Love Foundation| CADtnet: Developing an edge-based AI app for the Low Middle Income Countries to Triage Breast Cancer using Ultrasound Images with the help of Deep Learning Techniques| March' 19| Upal Roy| Shobhit Singhal, Piyush Singhal|
+|Dr. Susan Love Foundation| CADtnet: Developing an edge-based AI app for the Low Middle Income Countries to Triage Breast Cancer using Ultrasound Images with the help of Deep Learning Techniques| March' 19| [Upal Roy](https://in.linkedin.com/in/upalroy)| [Shobhit Singhal](https://in.linkedin.com/in/shobhit-singhal-384585121), Piyush Singhal|
 |CNN, U-net, Keras, Tensorflow|
 
 
