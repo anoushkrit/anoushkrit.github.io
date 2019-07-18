@@ -62,9 +62,10 @@
 
 > Disclosure of details not possible due to NDA.
 
-|Title | Details| Year| Mentor| Team|
-|------|--------|-----|-------|-----|
-|Dr. Susan Love Foundation| CADtnet: Developing an edge-based AI app for the Low Middle Income Countries to Triage Breast Cancer using Ultrasound Images with the help of Deep Learning Techniques| 201
+|Title | Details| Year| Mentor| Team| Technologies|
+|------|--------|-----|-------|-----|-------------|
+|Dr. Susan Love Foundation| CADtnet: Developing an edge-based AI app for the Low Middle Income Countries to Triage Breast Cancer using Ultrasound Images with the help of Deep Learning Techniques| March' 19| Upal Roy| Shobhit Singhal, Piyush Singhal|
+|CNN, U-net, Keras, Tensorflow|
 
 
 ### Machine Learning and Deep Learning Projects
@@ -119,11 +120,10 @@
 
 |Course Code| Title| Units| Faculty| Semester|
 |-----------|------|------|--------|---------|
+| CSD 101| Introduction to Programming| 4.00 | Dr. Pooja Malik| Monsoon 2015|
 | CSD 201| Data Structures| 4.00 | Dr. Pooja Malik| Spring 2016|
 
 #### ECE Major Courses
-
-
 
 |Course Code| Title| Units| Faculty| Semester|
 |-----------|------|------|--------|---------|
