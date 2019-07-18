@@ -123,6 +123,7 @@
 |-----------|------|------|--------|---------|
 | CSD 101| Introduction to Programming| 4.00 | Dr. Pooja Malik| Monsoon 2015|
 | CSD 201| Data Structures| 4.00 | Dr. Pooja Malik| Spring 2016|
+| EED 363|**Applied Machine Learning**| Dr. Madan Gopal| Spring 2018|
 
 #### ECE Major Courses
 
@@ -137,6 +138,7 @@
 | EED 301| Electromagnetic Engineering| 3.00| Dr. Madhur Deo Upadhyay| Spring 2017|
 | EED 302| Control Systems| 4.00| Prof. Emeritus Dr. Madan Gopal| Monsoon 2017|
 | EED 305| Digital Signal Processing| 4.00| Prof. Vijay Kumar Chakka| Monsoon 2017|
+|EED 308|**Embedded Systems Hardware**| 4.00| Prof. Ranendra Narayan Biswas| Spring 2018|
 
 #### Design courses
 
@@ -147,10 +149,6 @@
 | DES 131| Introduction to Ergonomics| 4.00| Asst. Prof. Prakash Kumar| Monsoon 2017|
 | DES
 
-| Title| Faculty| Year|
-|------|--------|-----|
-|**Embedded Systems Hardware**| Prof. Ranendra Narayan Biswas| 2018|
-|**Applied Machine Learning**| Dr. Madan Gopal| 2018|
 
 
 ### Contact Me
