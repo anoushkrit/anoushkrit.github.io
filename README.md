@@ -123,7 +123,7 @@
 |-----------|------|------|--------|---------|
 | CSD 101| Introduction to Programming| 4.00 | Dr. Pooja Malik| Monsoon 2015|
 | CSD 201| Data Structures| 4.00 | Dr. Pooja Malik| Spring 2016|
-| EED 363|**Applied Machine Learning**| Dr. Madan Gopal| Spring 2018|
+| EED 363|**Applied Machine Learning**|4.00| Dr. Madan Gopal| Spring 2018|
 
 #### ECE Major Courses
 
@@ -147,7 +147,6 @@
 | DES 101| Elements and Principals of Design| 4.00| Asst. Prof. Vikash Kumar| Monsoon 2016|
 | DES 111| Introduction to Product Design| 4.00| Asst. Prof. Prakash Kumar| Spring 2017|
 | DES 131| Introduction to Ergonomics| 4.00| Asst. Prof. Prakash Kumar| Monsoon 2017|
-| DES
 
 
 
