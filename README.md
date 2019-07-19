@@ -36,7 +36,7 @@
 
 ## Experience
 
-
+### Technical Experiences
 
 | Institution| Job Role| Start Date| End Date| Months| Location|
 |------------|---------|-----------|---------|--------------|---------|
@@ -47,7 +47,7 @@
 
 -->
 
-## Leadership Experiences
+### Leadership Experiences
 
 
 | Institution| Description| Role | Year| Details|
@@ -74,10 +74,11 @@
 
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
-|**Teresa**: Artificially Intelligent Medical Assistant| Biomedical Text Analytics tool|2019  |Jitendra Prajapati| Individual|
-|**Teresa**: Digital Auscultation Device |Predicting and annotating the Seismocardiography Database using STM32 F767ZI and Machine Learning| 2018| Prof. Ranendra Narayan Biswas| Dhananjay Dutt|
+|**Teresa**[*](#thesis): Artificially Intelligent Medical Assistant| Biomedical Text Analytics tool|2019  |Jitendra Prajapati| Individual|
+|**Teresa***: Digital Auscultation Device |Predicting and annotating the Seismocardiography Database using STM32 F767ZI and Machine Learning| 2018| Prof. Ranendra Narayan Biswas| Dhananjay Dutt|
 |**[Stock Price Forecasting]()**|Predicting the Stock Prices based on Machine Learning Algorithms with the help of Domain Knowledge| Feb '18| Dr. Madan Gopal| [Abhinav Garg](https://in.linkedin.com/in/abhinav-garg-5a0183178), [Archit Yadav](https://in.linkedin.com/in/archit-yadav-95482b156)|
 |**Human Behavior Prediction**| Predicting Human Behavior based on their inputs and their various platforms| Ongoing| Asst. Prof. Gatha Sharma| [C.V. Hariharan](), Pratyush Dubey|
+|**Predictive Otology**| Classifying the human ear related diseases by using Machine Learning from the capture dataset (ear)| Jan'18| Prateek Sikka| Sarthak Garg, Kriti Singh, Sarthak Sharma|
 
 
 ### Design Projects
@@ -147,6 +148,9 @@
 | DES 111| Introduction to Product Design| 4.00| Asst. Prof. Prakash Kumar| Spring 2017|
 | DES 131| Introduction to Ergonomics| 4.00| Asst. Prof. Prakash Kumar| Monsoon 2017|
 
+
+### Thesis
+[**Teresa**](#machine-learning-and-deep-learning-projects): Artficially Intelligent Healthcare Assistant
 
 
 ### Contact Me
