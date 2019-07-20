@@ -5,17 +5,18 @@
 
 # [Anoushkrit Goel](https://anoushkrit.github.io)
 
-
+<!------------------------------LOGOS---------------------------------------->
 <p>
 <a href="https://twitter.com/anoushkrit">
 <img border="0" alt="Twitter" src="https://image.flaticon.com/icons/svg/54/54300.svg" width="30" height="30" align="right">
 </a>
 <a href="https://in.linkedin.com/in/anoushkrit-goel-976a3613b">
 <img border="0" alt="Twitter" src="https://image.flaticon.com/icons/png/512/69/69406.png" width="30" height="30" align="right">
-</a>
+
 <a href="https://github.com/anoushkrit">
 <img border="0" alt="Github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" height="35" align="right">
 </a>
+
 </p>
 
 <!---
@@ -26,12 +27,12 @@
 
 <font size = 2>
 
-| Institution| Mode| Level | Result(in CGPA/Percentage)|
-|------------|-----|-------|---------------------------|
-|**[Shiv Nadar University](https://snu.edu.in/)**| B.Tech ([ECE](https://ee.snu.edu.in/undergraduate/major/btech-in-btech-in-electronics-and-communication-engineering-ece))|Undergraduate|7.6|
-|**Shiv Nadar University**| Minor: [Design](https://design.snu.edu.in)| Undergraduate| NA |
-|**[Delhi Public School Ghaziabad](http://www.dpsghaziabad.com/)**| [CBSE](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education)  |Senior Secondary Level| 92.4%|
-|**Delhi Public School Ghaziabad**| CBSE|Secondary Level| 10|
+| Institution| Mode| Details| Level | Result(in CGPA/Percentage)|
+|------------|-----|--------|-------|---------------------------|
+|**[Shiv Nadar University](https://snu.edu.in)**| Bachelor of Technology  **(B.Tech)**|  [Electronics and Communication Engineering](https://ee.snu.edu.in/undergraduate/major/btech-in-btech-in-electronics-and-communication-engineering-ece)|Undergraduate|7.6|
+|**Shiv Nadar University**| Bachelors in Design **(B. Des)**| [Design](https://design.snu.edu.in)| Undergraduate| NA |
+|**[Delhi Public School Ghaziabad](http://www.dpsghaziabad.com/)**| Central Board of Secondary Education, **[CBSE](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education)**  |Physics, Chemistry, Mathematics, English, Fine Arts, Physical Education | Senior Secondary Level| 92.4%|
+|**Delhi Public School Ghaziabad**| **CBSE** |Pre-defined Course Curriculum |Secondary Level| 10|   
 
 
 ## Experience
@@ -86,9 +87,7 @@
 
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
-|Language of Color Communication| Reported the impact of color and how it communicates with the human psychology in a Research Paper| Dec '18 | Prof. Amit Ray| NA|
-|Earphone Winder| Earphone Winder design to combat the entangling of earphone cables| Dec '17| Asst. Prof. Prakash Kumar| Sidharth Jhawar, Aarushi Sachdeva, Rishabh Mittal|
-|Multitasking Attachment for Laptop| Attachment provided to the laptop for Multi-tasking purposes and for placing the phone| May '17| Asst. Prof. Prakash Kumar| Siddharth Goel, Anirudh Chauhan|
+|Language of Color Communication| Reported the impact of color and how it communicates with the human psychology in a Research Paper| Dec '18 | Prof. Amit Ray| NA| Multitasking Attachment for Laptop| Attachment provided to the laptop for Multi-tasking purposes and for placing the phone| May '17| Asst. Prof. Prakash Kumar| Siddharth Goel, Anirudh Chauhan|
 
 
 ### Electronics Projects
@@ -100,10 +99,7 @@
 
 
 ## Courses
-
-
 ### MOOCs
-
 
 | Title| Institution| Faculty| Platform| Certificate|
 |------|------------|---------|--------|------------|
@@ -111,6 +107,8 @@
 |**[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)**|[Deeplearning.ai](https://deeplearning.ai)|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)|Coursera|Audit|
 |**[Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network0)**| Deeplearning.ai|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Audit|
 |**[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)**| Deeplearning.ai|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Audit|
+|**[Convolutional Neural Network]()**| Deeplearning.ai| Andrew Ng| Coursera| In Progress|
+|**[Sequence Models]()**| Deeplearning.ai| Andrew Ng| Coursera| In Progress|
 |**[Cryptography 1](https://www.coursera.org/learn/crypto)**| Stanford University| [Dan Boneh](https://en.wikipedia.org/wiki/Dan_Boneh)| Coursera| In Progress|
 |**[Decentralized Applications](https://www.theschool.ai/courses/decentralized-application/)**| The School of AI| [Siraj Raval](https://www.linkedin.com/in/sirajraval/)|The School of AI|In Progress|
 |**[Move 37](https://www.theschool.ai/courses/move-37-course/)**|The School of AI|[Siraj Raval](https://www.linkedin.com/in/sirajraval/)| The School of AI| In Progress|
@@ -144,13 +142,23 @@
 
 |Course Code| Title| Units| Faculty| Semester|
 |-----------|------|------|--------|---------|
-| DES 101| Elements and Principals of Design| 4.00| Asst. Prof. Vikash Kumar| Monsoon 2016|
+| DES 101| Elements and Principles of Design| 4.00| Asst. Prof. Vikash Kumar| Monsoon 2016|
 | DES 111| Introduction to Product Design| 4.00| Asst. Prof. Prakash Kumar| Spring 2017|
 | DES 131| Introduction to Ergonomics| 4.00| Asst. Prof. Prakash Kumar| Monsoon 2017|
 
 
 ### Thesis
 [**Teresa**](#machine-learning-and-deep-learning-projects): Artficially Intelligent Healthcare Assistant
+
+## Hobbies
+
+* Swimming, Basketball, Table Tennis
+* Portrait Painting, Sketching and other forms of Fine Arts
+* Fingerstyle Guitar Picking
+* Solving real-world problems and mentoring people by providing unique ideas.
+*	Organizing Events and Volunteering for a cause.
+*	Designing and Optimizing various tasks
+
 
 
 ### Contact Me
