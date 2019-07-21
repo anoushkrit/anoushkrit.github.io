@@ -87,7 +87,9 @@
 
 | Title| Details| Year| Faculty| Team|
 |------|--------|-----|--------|-----|
-|Language of Color Communication| Reported the impact of color and how it communicates with the human psychology in a Research Paper| Dec '18 | Prof. Amit Ray| NA| Multitasking Attachment for Laptop| Attachment provided to the laptop for Multi-tasking purposes and for placing the phone| May '17| Asst. Prof. Prakash Kumar| Siddharth Goel, Anirudh Chauhan|
+|Language of Color Communication| Reported the impact of color and how it communicates with the human psychology in a Research Paper| Dec '18 | Prof. Amit Ray| Individual|
+|Earphone Winder| Earphone Winder design to combat the entangling of earphone cables| Dec '17| Asst. Prof. Prakash Kumar| Sidharth Jhawar, Aarushi Sachdeva, Rishabh Mittal|
+|Multitasking Attachment for Laptop| Attachment provided to the laptop for Multi-tasking purposes and for placing the phone| May '17| Asst. Prof. Prakash Kumar| Siddharth Goel, Anirudh Chauhan|
 
 
 ### Electronics Projects
