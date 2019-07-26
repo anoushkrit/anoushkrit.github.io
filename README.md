@@ -165,6 +165,8 @@
 
 ### Contact Me
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="anoushkrit-goel-976a3613b"><a class="LI-simple-link" href='https://in.linkedin.com/in/anoushkrit-goel-976a3613b?trk=profile-badge'>Anoushkrit Goel</a></div>
+
 Mobile Phone: **+91-8882237267**<br/>
 Mail: **anoushkritgoel@gmail.com**
 <p>
