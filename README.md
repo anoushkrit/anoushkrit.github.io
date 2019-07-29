@@ -22,8 +22,10 @@
 <!---
 [![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/anoushkrit)
 -->
-[Education](#education)
-[Experience](#experience)
+1. [Education](#education)
+2. [Experience](#experience)
+    2.1 [Technical Experiences](#technical
+
 ## Education
 
 <font size = 2>
