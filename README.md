@@ -22,20 +22,20 @@
 <!---
 [![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/anoushkrit)
 -->
-1. [Education](#education)
+1. [Education](#education)</br>
 2. [Experience](#experience)</br>
     2.1 [Technical Experiences](#technical-experience)</br>
     2.2 [Leadership Experiences](#leadership-experience)</br>
-3. [Projects](#projects)
+3. [Projects](#projects)</br>
     3.1 [Industrial Projects](#industrial-projects)</br>
     3.2 [Machine Learning and Deep Learning Projects](#machine-learning-ad-deep-learning-projects)</br>
     3.3 [Design Projects](#design-projects)</br>
     3.4 [Electronics Projects](#electronics-projects)</br>
-4. [Courses](#courses)
+4. [Courses](#courses)</br>
     4.1 [MOOCs](#moocs)</br>
     4.2 [University Courses](#university-courses)</br>
-5. [Hobbies](#hobbies)
-6. [Contact Me](#contact-me)
+5. [Hobbies](#hobbies)</br>
+6. [Contact Me](#contact-me)</br>
 
 ## Education
 
