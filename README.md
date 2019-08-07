@@ -25,7 +25,7 @@
 1. [Education](#education)
 2. [Experience](#experience)</br>
     2.1 [Technical](#technical)</br>
-    2.2 [Leadership](#leadership)
+    2.2 [Leadership](#leadership experiences)
 3. [Projects](#projects)
 4. [Courses](#courses)
 5. [Contact Me](#contact)
