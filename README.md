@@ -23,9 +23,12 @@
 [![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/anoushkrit)
 -->
 1. [Education](#education)
-2. [Experience](#experience)
-    2.1 [Technical Experiences](#technical
-
+2. [Experience](#experience)</br>
+    2.1 [Technical](#technical)</br>
+    2.2 [Leadership](#leadership)
+3. [Projects](#projects)
+4. [Courses](#courses)
+5. [Contact Me](#contact)
 ## Education
 
 <font size = 2>
@@ -40,7 +43,7 @@
 
 ## Experience
 
-### Technical Experiences
+### Technical
 
 | Institution| Job Role| Start Date| End Date| Months| Location|
 |------------|---------|-----------|---------|--------------|---------|
@@ -166,8 +169,7 @@
 
 
 
-### Contact Me
-
+### Contact
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="anoushkrit-goel-976a3613b"><a class="LI-simple-link" href='https://in.linkedin.com/in/anoushkrit-goel-976a3613b?trk=profile-badge'>Anoushkrit Goel</a></div>
 
 Mobile Phone: **+91-8882237267**<br/>
