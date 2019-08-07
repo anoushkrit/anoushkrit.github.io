@@ -24,12 +24,18 @@
 -->
 1. [Education](#education)
 2. [Experience](#experience)</br>
-    2.1 [Technical](#technical)</br>
-    2.2 [Leadership](#leadership)
+    2.1 [Technical Experiences](#technical-experience)</br>
+    2.2 [Leadership Experiences](#leadership-experience)</br>
 3. [Projects](#projects)
+    3.1 [Industrial Projects](#industrial-projects)</br>
+    3.2 [Machine Learning and Deep Learning Projects](#machine-learning-ad-deep-learning-projects)</br>
+    3.3 [Design Projects](#design-projects)</br>
+    3.4 [Electronics Projects](#electronics-projects)</br>
 4. [Courses](#courses)
+    4.1 [MOOCs](#moocs)</br>
+    4.2 [University Courses](#university-courses)</br>
 5. [Hobbies](#hobbies)
-6. [Contact Me](#contact)
+6. [Contact Me](#contact-me)
 
 ## Education
 
@@ -45,7 +51,7 @@
 
 ## Experience
 
-### Technical
+### Technical Experience
 
 | Institution| Job Role| Start Date| End Date| Months| Location|
 |------------|---------|-----------|---------|--------------|---------|
@@ -56,7 +62,7 @@
 
 -->
 
-### Leadership Experiences
+### Leadership Experience
 
 
 | Institution| Description| Role | Year| Details|
@@ -171,7 +177,7 @@
 
 
 
-### Contact
+### Contact Me
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="anoushkrit-goel-976a3613b"><a class="LI-simple-link" href='https://in.linkedin.com/in/anoushkrit-goel-976a3613b?trk=profile-badge'>Anoushkrit Goel</a></div>
 
 Mobile Phone: **+91-8882237267**<br/>
