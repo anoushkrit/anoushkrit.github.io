@@ -25,10 +25,12 @@
 1. [Education](#education)
 2. [Experience](#experience)</br>
     2.1 [Technical](#technical)</br>
-    2.2 [Leadership](#leadership experiences)
+    2.2 [Leadership](#leadership experiences)<
 3. [Projects](#projects)
 4. [Courses](#courses)
-5. [Contact Me](#contact)
+5  [Hobbies](#hobbies)
+6. [Contact Me](#contact)
+
 ## Education
 
 <font size = 2>
