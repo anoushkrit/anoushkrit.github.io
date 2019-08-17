@@ -121,7 +121,7 @@
 |------|------------|---------|--------|------------|-----------|
 |**[Machine Learning](https://www.coursera.org/learn/machine-learning)**| Stanford University| [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Audit|
 |**[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)**|[Deeplearning.ai](https://deeplearning.ai)|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)|Coursera|Certificate|[3G94WMR432EK](https://www.coursera.org/account/accomplishments/certificate/3G94WMR432EK)|
-|**[Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network0)**| Deeplearning.ai|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Audit|
+|**[Improving Deep Neural Networks](https://www.coursera.org/learn/deep-neural-network0)**| Deeplearning.ai|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Certificate|[Z659SG7D22SG](https://www.coursera.org/account/accomplishments/certificate/Z659SG7D22SG)
 |**[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)**| Deeplearning.ai|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Certificate|[V8N6SVNRZS2J](https://www.coursera.org/account/accomplishments/certificate/V8N6SVNRZS2J)
 |**[Convolutional Neural Network]()**| Deeplearning.ai| Andrew Ng| Coursera| In Progress|
 |**[Sequence Models]()**| Deeplearning.ai| Andrew Ng| Coursera| In Progress|
