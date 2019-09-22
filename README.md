@@ -125,6 +125,7 @@
 |**[Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)**| Deeplearning.ai|[Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng)| Coursera| Certificate|[V8N6SVNRZS2J](https://www.coursera.org/account/accomplishments/certificate/V8N6SVNRZS2J)
 |**[Convolutional Neural Network]()**| Deeplearning.ai| Andrew Ng| Coursera| Certificate|[4KWP4593LP53](https://www.coursera.org/account/accomplishments/certificate/4KWP4593LP53)|
 |**[Sequence Models]()**| Deeplearning.ai| Andrew Ng| Coursera|Certificate| [G8GZ7ZJFJCUQ](https://www.coursera.org/account/accomplishments/verify/G8GZ7ZJFJCUQ)|
+|**[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)**| Deeplearning.ai| Andrew Ng| Coursera| Certificate| |[WXBN3CDY3J33](https://www.coursera.org/account/accomplishments/specialization/certificate/WXBN3CDY3J33)|
 |**[Cryptography 1](https://www.coursera.org/learn/crypto)**| Stanford University| [Dan Boneh](https://en.wikipedia.org/wiki/Dan_Boneh)| Coursera| In Progress|
 |**[Decentralized Applications](https://www.theschool.ai/courses/decentralized-application/)**| The School of AI| [Siraj Raval](https://www.linkedin.com/in/sirajraval/)|The School of AI|In Progress|
 |**[Move 37](https://www.theschool.ai/courses/move-37-course/)**|The School of AI|[Siraj Raval](https://www.linkedin.com/in/sirajraval/)| The School of AI| In Progress|
