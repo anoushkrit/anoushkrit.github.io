@@ -46,7 +46,7 @@
 |**[Shiv Nadar University](https://snu.edu.in)**| Bachelor of Technology  **(B.Tech)**|  [Electronics and Communication Engineering](https://ee.snu.edu.in/undergraduate/major/btech-in-btech-in-electronics-and-communication-engineering-ece)|Undergraduate|7.6|
 |**Shiv Nadar University**| Bachelors in Design **(B. Des)**| [Design](https://design.snu.edu.in)| Undergraduate| NA |
 |**[Delhi Public School Ghaziabad](http://www.dpsghaziabad.com/)**| Central Board of Secondary Education, **[CBSE](https://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education)**  |Physics, Chemistry, Mathematics, English, Fine Arts, Physical Education | Senior Secondary Level| 92.4%|
-|**Delhi Public School Ghaziabad**| **CBSE** |Pre-defined Course Curriculum |Secondary Level| 10|   
+|**Delhi Public School Ghaziabad**| **CBSE** |Pre-defined Course Curriculum |Secondary Level| 10|
 
 
 ## Experience
@@ -55,7 +55,7 @@
 
 | Institution| Job Role| Start Date| End Date| Months| Location|
 |------------|---------|-----------|---------|--------------|---------|
-| **[NextGen Invent Corporation](https://nextgeninvent.com/)**| Data Scientist| Jan 2, 2019|Working|7 months|Noida, India|
+| **[NextGen Invent Corporation](https://nextgeninvent.com/)**| Data Scientist| Jan 2, 2019|Working|11 months |Noida, India|
 
 <!---
 | **[xtLytics LLC](https://www.xtlytics.com/)** | Data Scientist| Mar 1, 2019| Working| NA| Noida, India|
@@ -79,8 +79,9 @@
 
 |Title | Details| Year| Mentor| Team| Technologies|
 |------|--------|-----|-------|-----|-------------|
-|Dr. Susan Love Foundation| CADtnet: Developing an edge-based AI app for the Low Middle Income Countries to Triage Breast Cancer using Ultrasound Images with the help of Deep Learning Techniques| March' 19 - August' 19| [Upal Roy](https://in.linkedin.com/in/upalroy)| [Shobhit Singhal](https://in.linkedin.com/in/shobhit-singhal-384585121), Piyush Singhal|CNN, U-net, Keras, Tensorflow|
-| Help Me See| Developing an interactive and augmented model of an eye for training purposes by Untrained Medical Professionals.| Jan'19-March'19| [Upal Roy](https://in.linkedin.com/in/upalroy)| [Himanshu Singhal]()| Blender, [SOFA](https://www.sofa-framework.org/)|
+| Table Invoice OCR|
+|Medical Image Classification & Segmentation into BIRADS| CADtnet: Developing an edge-based AI app for the Low Middle Income Countries to Triage Breast Cancer using Ultrasound Images into their *BIRAD(s)* scores with the help of **Deep Learning Techniques** | March' 19 - August' 19| [Upal Roy](https://in.linkedin.com/in/upalroy)| [Shobhit Singhal](https://in.linkedin.com/in/shobhit-singhal-384585121), Piyush Singhal|CNN, U-net, Keras, Tensorflow|
+|3D Organ Simulation| Developing an interactive and augmented model of an eye for training purposes by Untrained Medical Professionals.| Jan'19-March'19| [Upal Roy](https://in.linkedin.com/in/upalroy)| [Himanshu Singhal]()| Blender, [SOFA](https://www.sofa-framework.org/)|
 
 
 
