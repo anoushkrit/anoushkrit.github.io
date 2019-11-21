@@ -29,9 +29,6 @@
 3. [Achievments]
     3.1 [Incubation at IIT Mandi]
     
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6579203549337657344" allowfullscreen="" title="Embedded post" width="504" height="661" frameborder="0">
-
-</iframe>
         
 3. [Projects](#projects)</br>
     3.1 [Industrial Projects](#industrial-projects)</br>
