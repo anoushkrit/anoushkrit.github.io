@@ -26,6 +26,9 @@
 2. [Experience](#experience)</br>
     2.1 [Technical Experiences](#technical-experience)</br>
     2.2 [Leadership Experiences](#leadership-experience)</br>
+3. [Achievments]
+    3.1 [Incubation at IIT Mandi]
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6579203549337657344" allowfullscreen="" title="Embedded post" width="504" height="661" frameborder="0"></iframe>
 3. [Projects](#projects)</br>
     3.1 [Industrial Projects](#industrial-projects)</br>
     3.2 [Machine Learning and Deep Learning Projects](#machine-learning-ad-deep-learning-projects)</br>
