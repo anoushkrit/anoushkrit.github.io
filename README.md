@@ -28,8 +28,9 @@
 2. [Experience](#experience)</br>
     2.1 [Technical Experiences](#technical-experience)</br>
     2.2 [Leadership Experiences](#leadership-experience)</br>
-3. [Achievments]
-    3.1 [Incubation at IIT Mandi]
+    
+3. [Achievments](https://sites.google.com/view/anoushkritgoel/achievements)</br>
+    3.1 [Incubation at IIT Mandi](https://sites.google.com/view/anoushkritgoel/achievements)</br>
 
 
 3. [Projects](#projects)</br>
