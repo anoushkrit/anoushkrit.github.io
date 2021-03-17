@@ -101,7 +101,7 @@ X_train = sc.fit_transform(X_train[:, 3:4])
 
 **Normalisation**
 
-$x_{norm} = {x- min(x)}/max(x) - min(x)$
+$$x_{norm} = {x- min(x)}/max(x) - min(x)$$
 
 
 **Object Oriented Programming**
