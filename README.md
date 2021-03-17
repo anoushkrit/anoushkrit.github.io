@@ -13,7 +13,7 @@
 <img border="0" alt="Twitter" src="https://image.flaticon.com/icons/svg/54/54300.svg" width="30" height="30" align="right">
 </a>
 <a href="https://in.linkedin.com/in/anoushkrit-goel-976a3613b">
-<img border="0" alt="Twitter" src="https://image.flaticon.com/icons/png/512/69/69406.png" width="30" height="30" align="right">
+<img border="0" alt="Linkedin" src="https://image.flaticon.com/icons/png/512/69/69406.png" width="30" height="30" align="right">
 
 <a href="https://github.com/anoushkrit">
 <img border="0" alt="Github" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35" height="35" align="right">
