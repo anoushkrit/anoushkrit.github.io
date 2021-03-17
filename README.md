@@ -6,6 +6,10 @@
 # [Anoushkrit Goel](https://anoushkrit.github.io)
 
 
+<a href="https://github.com/anoushkrit/anoushkrit.github.io/blob/master/ml/Notes.html">
+<img border="0" alt="Machine Learning" src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" width="35" height="35" align="left">
+</a>
+
 
 <!------------------------------LOGOS---------------------------------------->
 <p>
